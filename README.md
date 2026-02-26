@@ -7,3 +7,4 @@
 5. Start Jupyter and load notebook View.ipynb. Run the notebook. Select the accuracy metric to view (ROC AUC or enrichment).
 6. Please send comments and/or bug reports, if any, to balabin@avicenna-bio.com.
 
+File requirements.in lists the Python packages used for the calculations and visualization. There are no specific version requirements; any reasonably recent version of Python and packages will do.
